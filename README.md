@@ -71,7 +71,7 @@ filter.FilterID, outputParams, null, 2, 2);
 
 // choose a set of render parameters and do a full render.
 render = api.AviaryFX.Render(file.Path, filter.FilterID, outputParams, render.Renders[0].Parameters)
-</code><pre>
+</code></pre>
 
 ###  Render thumbnail grid
 
