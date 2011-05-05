@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CartonAPISample", "CartonAPISample", "{52C90377-25F1-4B1C-9888-DB07CD427A86}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/CartonAPISample"
+		Debug.AspNetCompiler.PhysicalPath = "CartonAPISample\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\CartonAPISample\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/CartonAPISample"
+		Release.AspNetCompiler.PhysicalPath = "CartonAPISample\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\CartonAPISample\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "24159"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52C90377-25F1-4B1C-9888-DB07CD427A86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C90377-25F1-4B1C-9888-DB07CD427A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
